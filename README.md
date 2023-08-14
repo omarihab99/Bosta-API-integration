@@ -6,6 +6,7 @@ Bosta provides API endpoint for handling delivery requests ( http://app.bosta.co
 - Package type.
 - COD amount.
 - Webhook URL for delivery status updates along with webhook custom header which may contains authuntication token.
+- returnAddress ( which you will need if you want to make a return ).
 #### 2.    Pickup request:
 For creating a pickup request, you can use the API endpoint ( http://app.bosta.co/api/v2/pickups ) to send POST request which requires authentication token ( or API_KEY ) and pickup details such as the following:
 - BusinesslocationID.
