@@ -1,4 +1,4 @@
-## This is a simple guide for integrating Bosta API with Amazon for delivery and shipping.
+## This is a simple guide for integrating Bosta API for delivery and shipping.
 ### For the comprehensive guide, please refer to the documentation ( https://docs.bosta.co/ )
 
 #### 1.    Delivery (Cash on Delivery):
