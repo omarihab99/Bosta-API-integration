@@ -1,5 +1,5 @@
 This is a simple guide for integrating Bosta API for delivery and shipping.
-### For the comprehensive guide, please refer to the documentation ( https://docs.bosta.co/ )
+For the comprehensive guide, please refer to the documentation ( https://docs.bosta.co/ )
 
 #### 1.    Delivery (Cash on Delivery):
 Bosta provides API endpoint for handling delivery requests ( http://app.bosta.co/api/v2/deliveries ). When provided with authentication token ( or API_KEY ), you can send a POST request providing required delivery details to this endpoint for creating a delivery with COD. An example for delivery details you can provide:
